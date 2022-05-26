@@ -36,12 +36,12 @@
 <div id="footer">
     Powered by
     <a href="https://html5up.net">HTML</a>, 
-    <a href="https://html5up.net">markdown</a>, 
-    <a href="https://html5up.net">LaTeX</a>
+    <a href="https://markdown.com.cn/">markdown</a>, 
+    <a href="https://www.latex-project.org/">LaTeX</a>
     <br>
     Copyright © 2022 | 
-    <a href="">Tolia</a> - 
-    <a href="">GoldenSea</a>
+    <a href="https://tolia-gh.github.io">Tolia</a> - 
+    <a href="https://github.com/golden-sea">GoldenSea</a>
     <br>
     All Rights Reserved.
     <br>
