@@ -16,18 +16,40 @@
 ## 版权声明
 - 本项目所有非代码文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 - 本项目所有代码文本内容遵循 [MIT Lisense](https://opensource.org/licenses/mit-license.php)
-<hr align=center size="1">
-<p class="copyright">
-    <font size="2">
-        <center>
-            Copyright © 2022-2022
-            <a href=""> | Tolia - GoldenSea</a>
-        </center>
-        <center>All Rights Reserved.</center>
-        <center>Powered by
-            <a href="https://html5up.net">HTML</a>, 
-            <a href="https://html5up.net">markdown</a>, 
-            <a href="https://html5up.net">LaTeX</a></a>
-        </center>
-    </font>
-</p>
+
+<style type="text/css">
+    body {
+        padding: 0;
+        margin: 0 auto;
+    }
+ 
+    #footer {
+        line-height: 20px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+ 
+    .content {
+        height: 1800px;
+        width: 100%;
+        text-align: center;
+    }
+</style>
+
+<div id="footer">
+    Powered by
+    <a href="https://html5up.net">HTML</a>, 
+    <a href="https://html5up.net">markdown</a>, 
+    <a href="https://html5up.net">LaTeX</a>
+    <br>
+    Copyright © 2022 | 
+    <a href="">Tolia</a> - 
+    <a href="">GoldenSea</a>
+    <br>
+    All Rights Reserved.
+    <br>
+</div>
