@@ -33,7 +33,6 @@
         text-align: center;
     }
 </style>
-
 <div id="footer">
     Powered by
     <a href="https://html5up.net">HTML</a>, 
