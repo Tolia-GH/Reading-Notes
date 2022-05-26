@@ -18,12 +18,9 @@
 - 本项目所有代码文本内容遵循 [MIT Lisense](https://opensource.org/licenses/mit-license.php)
 
 <style type="text/css">
-    body {
-        padding: 0;
-        margin: 0 auto;
-    }
- 
     #footer {
+        position: relative;
+        margin: 0 auto;
         line-height: 20px;
         text-align: center;
         font-size: 12px;
