@@ -1,4 +1,4 @@
-# 欢迎来到 [托利亚](github.com.Tolia-GH) 和 [金洋](github.com.golden-sea) 的阅读世界！
+# 欢迎来到 [托利亚](https://github.com/Tolia-GH) 和 [金洋](https://github.com/Tolia-GH) 的阅读世界！
 
 ## 项目介绍
 有关阅读笔记，摘录和一些随笔的收录
