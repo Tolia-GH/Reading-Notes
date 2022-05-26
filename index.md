@@ -25,9 +25,6 @@
  
     #footer {
         line-height: 20px;
-        position: absolute;
-        margin: auto;
-        bottom: 0;
         text-align: center;
         font-size: 12px;
         letter-spacing: 1px;
