@@ -9,13 +9,13 @@
 ## 阅读索引
 
 - [哲学>](哲学/README.md)
-- [西方文学>]()
-- [中国文学>]()
-- [随笔>]()
+- [外国文学>](外国文学/README.md))
+- [中国文学>](中国文学/README.md)
+- [随笔>](404.md)
 
 ## 版权声明
 - 本项目所有非代码文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
-- 本项目所有代码文本内容遵循 [MIT Lisense](https://opensource.org/licenses/mit-license.php)
+- 本项目所有代码文本内容遵循 [MIT Lisense](LICENSE)
 
 <style type="text/css">
     #footer {
